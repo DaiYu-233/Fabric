@@ -1,4 +1,4 @@
-package fun.daiyu;
+package com.example;
 
 import net.fabricmc.api.ClientModInitializer;
 

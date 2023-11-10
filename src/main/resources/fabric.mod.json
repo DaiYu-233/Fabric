@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "daiyu",
+	"id": "modid",
 	"version": "${version}",
 	"name": "Example mod",
 	"description": "This is an example description! Tell everyone what your mod is about!",
@@ -16,14 +16,14 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"fun.daiyu.Main"
+			"com.example.ExampleMod"
 		],
 		"client": [
-          "fun.daiyu.ExampleModClient"
+			"com.example.ExampleModClient"
 		]
 	},
 	"mixins": [
-		"daiyu.mixins.json",
+		"modid.mixins.json",
 		{
 			"config": "modid.client.mixins.json",
 			"environment": "client"
