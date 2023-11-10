@@ -1,29 +1,29 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
-	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"id": "daiyu",
+	"version": "1.0.0",
+	"name": "DaiYu Mod",
+	"description": "DaiYu Mod!",
 	"authors": [
-		"Me!"
+		"DaiYu"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://daiyu.fun/",
+		"sources": "https://github.com/DaiYu-233/Fabric"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/modid/icon.png",
+	"icon": "assets/daiyu/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"fun.daiyu.Main"
 		],
 		"client": [
 			"com.example.ExampleModClient"
 		]
 	},
 	"mixins": [
-		"modid.mixins.json",
+		"daiyu.mixins.json",
 		{
 			"config": "modid.client.mixins.json",
 			"environment": "client"
