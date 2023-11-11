@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "RRR",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "daiyu:row_radiant_fish"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "daiyu:radiant_fish_pickaxe"
+  }
+}

@@ -3,7 +3,7 @@
 	"id": "daiyu",
 	"version": "1.0.0",
 	"name": "DaiYu Mod",
-	"description": "DaiYu Mod!",
+	"description": "By 呆鱼.",
 	"authors": [
 		"DaiYu"
 	],
@@ -19,13 +19,13 @@
 			"fun.daiyu.Main"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"fun.daiyu.MainModClient"
 		]
 	},
 	"mixins": [
 		"daiyu.mixins.json",
 		{
-			"config": "modid.client.mixins.json",
+			"config": "daiyu.client.mixins.json",
 			"environment": "client"
 		}
 	],
