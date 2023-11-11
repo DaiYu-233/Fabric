@@ -1,7 +1,6 @@
 package fun.daiyu.items.tools.RadiantFish;
 
 import net.minecraft.item.HoeItem;
-import net.minecraft.item.ShovelItem;
 import net.minecraft.item.ToolMaterial;
 
 public class RadiantFishHoe extends HoeItem {
