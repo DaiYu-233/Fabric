@@ -12,16 +12,13 @@ import net.minecraft.util.Identifier;
 import java.util.List;
 
 public class ItemGroup {
-    public void RegistryItemGroupTask(List<Item> itemList,List<Item> blockItemList){
+    public static void RegistryItemGroupTask(){
         net.minecraft.item.ItemGroup ITEM_GROUP = FabricItemGroup.builder()
                 .icon(() -> new ItemStack(Items.ROW_RADIANT_FISH))
                 .displayName(Text.translatable("itemGroup.daiyu.main"))
                 .entries((displayContext, entries) -> {
-                    itemList.forEach(item -> {
+                    Items.itemList.forEach(item -> {
                         entries.add(new ItemStack(item));
-                    });
-                    blockItemList.forEach(block -> {
-                        entries.add(new ItemStack(block));
                     });
                 })
                 .build();
