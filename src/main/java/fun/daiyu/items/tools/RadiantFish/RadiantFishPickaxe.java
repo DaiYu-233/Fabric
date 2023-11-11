@@ -1,4 +1,4 @@
-package fun.daiyu.Items.tools.RadiantFish;
+package fun.daiyu.items.tools.RadiantFish;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;

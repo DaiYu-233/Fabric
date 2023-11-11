@@ -1,4 +1,4 @@
-package fun.daiyu.Items.Foods;
+package fun.daiyu.items.foods;
 
 import net.minecraft.client.item.TooltipContext;
 import net.minecraft.item.Item;
