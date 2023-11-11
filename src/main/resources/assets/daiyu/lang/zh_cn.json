@@ -1,0 +1,12 @@
+{
+  "item.daiyu.row_radiant_fish": "生の辐射鱼",
+  "item.daiyu.cooked_radiant_fish": "熟の辐射鱼",
+  "itemGroup.daiyu.main": "呆鱼",
+  "tooltip.item.row_radiant_fish": "一条遭受了核辐射的鱼",
+  "tooltip.item.cooked_radiant_fish": "一条被烤熟的遭受了核辐射的可怜鱼",
+  "item.daiyu.radiant_fish_sword": "辐射鱼之剑",
+  "item.daiyu.radiant_fish_axe": "辐射鱼之斧",
+  "item.daiyu.radiant_fish_shovel": "辐射鱼之锹",
+  "item.daiyu.radiant_fish_pickaxe": "辐射鱼之镐",
+  "item.daiyu.radiant_fish_hoe": "辐射鱼之锄"
+}

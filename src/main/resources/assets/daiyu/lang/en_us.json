@@ -1,0 +1,12 @@
+{
+  "item.daiyu.row_radiant_fish": "Row Radiant Fish",
+  "item.daiyu.cooked_radiant_fish": "Cooked Radiant Fish",
+  "itemGroup.daiyu.main": "DaiYu",
+  "tooltip.item.row_radiant_fish": "A fish that has suffered from nuclear radiation.",
+  "tooltip.item.cooked_radiant_fish": "A poor fish that has been exposed to nuclear radiation in a roasted roast.",
+  "item.daiyu.radiant_fish_sword": "Radiant Fish Sword",
+  "item.daiyu.radiant_fish_axe": "Radiant Fish Axe",
+  "item.daiyu.radiant_fish_shovel": "Radiant Fish Shovel",
+  "item.daiyu.radiant_fish_pickaxe": "Radiant Fish Pickaxe",
+  "item.daiyu.radiant_fish_hoe": "Radiant Fish Hoe"
+}
