@@ -1,6 +1,5 @@
-package fun.daiyu.Items.tools.RadiantFish;
+package fun.daiyu.items.tools.RadiantFish;
 
-import net.minecraft.item.PickaxeItem;
 import net.minecraft.item.ShovelItem;
 import net.minecraft.item.ToolMaterial;
 
