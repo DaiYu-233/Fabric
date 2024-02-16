@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "daiyu",
+	"version": "${version}",
+	"name": "DaiYu",
+	"description": "DaiYu !",
+	"authors": [
+		"DaiYu | 呆鱼"
+	],
+	"contact": {
+		"homepage": "https://daiyu.fun/",
+		"sources": "https://github.com/DaiYu-233/Fabric"
+	},
+	"license": "GPL-3.0",
+	"icon": "assets/daiyu/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"fun.daiyu.DaiYu"
+		],
+		"client": [
+			"fun.daiyu.DaiYuClient"
+		],
+		"fabric-datagen": [
+			"fun.daiyu.DaiYuDataGenerator"
+		]
+	},
+	"mixins": [
+		"daiyu.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
