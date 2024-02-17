@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "daiyu:item/cooked_radiation_fish"
+  }
+}

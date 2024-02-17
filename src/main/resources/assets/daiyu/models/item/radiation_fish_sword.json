@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "daiyu:item/radiation_fish_sword"
+  }
+}

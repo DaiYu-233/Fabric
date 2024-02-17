@@ -1,4 +1,13 @@
 {
   "daiyu": "DaiYu",
-  "item.daiyu.radiation_fish": "Radiation Fish"
+  "item.daiyu.radiation_fish": "Radiation Fish",
+  "block.daiyu.radiation_fish_ore": "Radiation Fish Ore",
+  "item.daiyu.cooked_radiation_fish": "Cooked Radiation Fish",
+  "tooltip.item.radiation_fish": "A fish that has suffered from nuclear radiation.",
+  "tooltip.item.cooked_radiation_fish": "A poor fish that has been exposed to nuclear radiation in a roasted roast.",
+  "item.daiyu.radiation_fish_sword": "Radiation Fish Sword",
+  "item.daiyu.radiation_fish_axe": "Radiation Fish Axe",
+  "item.daiyu.radiation_fish_shovel": "Radiation Fish Shovel",
+  "item.daiyu.radiation_fish_pickaxe": "Radiation Fish Pickaxe",
+  "item.daiyu.radiation_fish_hoe": "Radiation Fish Hoe"
 }

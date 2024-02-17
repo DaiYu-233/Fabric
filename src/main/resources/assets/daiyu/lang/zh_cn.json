@@ -1,4 +1,13 @@
 {
   "daiyu": "呆鱼",
-  "item.daiyu.radiation_fish": "辐射之鱼"
+  "item.daiyu.radiation_fish": "辐射之鱼",
+  "block.daiyu.radiation_fish_ore": "辐射之鱼矿",
+  "item.daiyu.cooked_radiation_fish": "熟辐射之鱼",
+  "tooltip.item.radiation_fish": "一条遭受了核辐射的鱼",
+  "tooltip.item.cooked_radiation_fish": "一条被烤熟的遭受了核辐射的可怜鱼",
+  "item.daiyu.radiation_fish_sword": "辐射鱼之剑",
+  "item.daiyu.radiation_fish_axe": "辐射鱼之斧",
+  "item.daiyu.radiation_fish_shovel": "辐射鱼之锹",
+  "item.daiyu.radiation_fish_pickaxe": "辐射鱼之镐",
+  "item.daiyu.radiation_fish_hoe": "辐射鱼之锄"
 }

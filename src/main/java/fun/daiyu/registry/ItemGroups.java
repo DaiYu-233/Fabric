@@ -8,13 +8,13 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
-public class ItemGroup {
+public class ItemGroups {
     public static final net.minecraft.item.ItemGroup DAIYU_GROUP = Registry.register
         (Registries.ITEM_GROUP, new Identifier(DaiYu.Const.Mod_Id, "daiyu_group"),
         FabricItemGroup.builder().displayName(Text.translatable("daiyu"))
-        .icon(() -> new ItemStack((Item.RADIATION_FISH)))
+        .icon(() -> new ItemStack((Items.RADIATION_FISH)))
         .entries(((displayContext, entries) -> {
-            Item.itemList.forEach(item -> {
+            DaiYu.itemList.forEach(item -> {
                 entries.add(new ItemStack(item));
             });
         })).build());
