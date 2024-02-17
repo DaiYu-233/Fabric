@@ -15,6 +15,9 @@ public class ItemGroups {
         .icon(() -> new ItemStack((Items.RADIATION_FISH)))
         .entries(((displayContext, entries) -> {
             DaiYu.itemList.forEach(item -> {
+                entries.add(new ItemStack(item.Item));
+            });
+            DaiYu.blockItemList.forEach(item -> {
                 entries.add(new ItemStack(item));
             });
         })).build());
