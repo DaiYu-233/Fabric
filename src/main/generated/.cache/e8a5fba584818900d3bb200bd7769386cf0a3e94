@@ -1,4 +1,4 @@
-// 1.20.4	2024-02-17T22:55:27.31031	DaiYu/Model Definitions
+// 1.20.4	2024-02-18T12:15:24.9959349	DaiYu/Model Definitions
 80c113b1b14309e7a03379034d054eb7849a1c49 assets\daiyu\models\item\radiation_fish_shovel.json
 069318cbd06644d1abddf2bcc839aa8b8825516a assets\daiyu\models\item\radiation_fish_axe.json
 ed810e2dfaee26e4be360680c743f1188b204fe2 assets\daiyu\models\item\radiation_fish_hoe.json
@@ -6,6 +6,6 @@ ae89fad0faea3a782dcd48fd4ef95fa5ba902c27 assets\daiyu\models\item\radiation_fish
 43340e1174ea20a76e367075d7a4c90fdd3f693f assets\daiyu\blockstates\radiation_fish_ore.json
 7ffc243f2934377a4502dffc3bc90c42b665a933 assets\daiyu\models\item\radiation_fish_sword.json
 729c857db35eccf5bc8fafc28b67a893eb6183d5 assets\daiyu\models\block\radiation_fish_ore.json
-24b283c0f429d85d4ca28ad0e434e977fe76d858 assets\daiyu\models\item\cooked_radiation_fish.json
 0a0d1c44ce974929fe6f71347310fa1636874274 assets\daiyu\models\item\radiation_fish_pickaxe.json
+24b283c0f429d85d4ca28ad0e434e977fe76d858 assets\daiyu\models\item\cooked_radiation_fish.json
 898ed4642f45cbe61f108639947b2384d1acbf9b assets\daiyu\models\item\radiation_fish_ore.json

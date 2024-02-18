@@ -20,7 +20,7 @@ public class LootTableProvider extends FabricBlockLootTableProvider {
 
     @Override
     public void generate() {
-        addDrop(Blocks.RADIATION_FISH_ORE, manyDrops(Blocks.RADIATION_FISH_ORE, Items.RADIATION_FISH, 1, 3));
+        addDrop(Blocks.RADIATION_FISH_ORE, manyDrops(Blocks.RADIATION_FISH_ORE, Items.RADIATION_FISH, 1, 2));
     }
 
     public LootTable.Builder manyDrops(Block drop, Item item, int min, int max) {
